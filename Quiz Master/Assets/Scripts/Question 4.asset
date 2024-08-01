@@ -10,5 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8622adea42dc12a42af2b16c24577ef6, type: 3}
-  m_Name: New Question
+  m_Name: Question 4
   m_EditorClassIdentifier: 
+  question: Exploring the Outer Wilds would be impossible without your trusty jetpack.
+    In real life, NASA's MMU (Manned Maneuvering Unit) allowed astronauts to perform
+    untethered extravehicular spacewalks at a distance from their shuttle. What gas
+    did the MMU use a propellent?
