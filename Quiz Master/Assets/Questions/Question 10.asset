@@ -16,3 +16,9 @@ MonoBehaviour:
     avoid revealing spoilers to those who have not completed the game. In real life,
     which magazine first printed the word 'spoiler' referring to plot twists or endings
     of narrative works?
+  answers:
+  - National Lampoon in 1971
+  - Rolling Stone in 1983
+  - Entertainment Weekly in 1991
+  - The New Yorker in 1999
+  correctAnswerIndex: 0

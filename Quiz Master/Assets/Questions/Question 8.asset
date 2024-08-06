@@ -15,3 +15,9 @@ MonoBehaviour:
   question: Beneath Brittle Hollow's crumbling crust is a vast cavity with a black
     hole at its core. In real life, in what decade was the term 'black hole' first
     used to describe astronomical phenomena?
+  answers:
+  - 1940s
+  - 1970s
+  - 1960s
+  - 1950s
+  correctAnswerIndex: 2

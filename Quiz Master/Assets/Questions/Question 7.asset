@@ -10,9 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8622adea42dc12a42af2b16c24577ef6, type: 3}
-  m_Name: Question 3
+  m_Name: Question 7
   m_EditorClassIdentifier: 
-  question: The Attlerock was likely the first celestial body that Hearthians explored,
-    although the game doesn't specify which astronaut was the first to land on Timer
-    Hearth's moon (AFAIK). In real life, what was the first human spaceflight to
-    land on the Moon?
+  question: Feldspar's musical instrument of choice is the harmonica. In real life,
+    which company was the first to mass produce harmonicas?
+  answers:
+  - Harmo
+  - Hohner
+  - Fender
+  - Suzuki
+  correctAnswerIndex: 1

@@ -15,3 +15,9 @@ MonoBehaviour:
   question: The Hourglass Twins are named after their unique characteristic of passing
     sand from one planet to the other. In real life, what famous American soap opera
     includes the words, 'Like sands through the hourglass...' in its title sequence?
+  answers:
+  - One Life to Live
+  - General Hospital
+  - As the World Turns
+  - Days of Our Lives
+  correctAnswerIndex: 3

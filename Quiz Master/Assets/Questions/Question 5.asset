@@ -15,3 +15,9 @@ MonoBehaviour:
   question: The Observatory museum on Timber Hearth features a specimen of an adolescent
     Anglerfish from Dark Bramble. In real life, what is a term used for the luminescent
     tip on the Anglerfish's 'fishing rod'?
+  answers:
+  - Ignis
+  - Clara
+  - Esca
+  - Lux
+  correctAnswerIndex: 2

@@ -14,3 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: The comet known as the Interloper is the source of all ghost matter in
     the Outer Wilds solar system. In real life, what does the word 'interloper' mean?
+  answers:
+  - someone who poses a danger to a group
+  - someone who arrives somewhere unexpectedly
+  - someone who is somewhere they do not belong
+  - someone who is a newcomer to a group
+  correctAnswerIndex: 2

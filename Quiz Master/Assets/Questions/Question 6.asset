@@ -15,3 +15,9 @@ MonoBehaviour:
   question: The Quantum Moon exists in orbit around six different large astral bodies
     at once until it is observed by a conscious observer. In real life, the phrase
     'quantum sufficit' is a medical shorthand that means what?
+  answers:
+  - '''as quickly as possible'''
+  - '''as little as possible'''
+  - '''as much as needed'''
+  - '''for as long as required'''
+  correctAnswerIndex: 0
