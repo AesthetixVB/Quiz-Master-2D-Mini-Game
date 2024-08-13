@@ -12,12 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8622adea42dc12a42af2b16c24577ef6, type: 3}
   m_Name: Question 5
   m_EditorClassIdentifier: 
-  question: The Observatory museum on Timber Hearth features a specimen of an adolescent
-    Anglerfish from Dark Bramble. In real life, what is a term used for the luminescent
-    tip on the Anglerfish's 'fishing rod'?
+  question: In Outer Wilds the Player and their spaceship are equipped with a variety
+    of tools. One of which is the Signal Scope, that detects frequencies. In our
+    universe, what is the name of the device used to measure the intensity, frequency,
+    and phase.
   answers:
-  - Ignis
-  - Clara
-  - Esca
-  - Lux
+  - Spectrometer
+  - Seismograph
+  - Oscilloscope
+  - Thermometer
   correctAnswerIndex: 2

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8622adea42dc12a42af2b16c24577ef6, type: 3}
+  m_Name: Question 15
+  m_EditorClassIdentifier: 
+  question: In Rendezvous with Rama, the exploration of the spacecraft reveals a
+    meticulously designed artificial environment. In the Outer Wilds DLC, players
+    encounter complex computer-generated environments that challenge their understanding
+    of quantum physics. What aspect of these environments in the DLC is similar to
+    the artificial settings explored in Rama?
+  answers:
+  - Variable Gravity Settings
+  - Time Dilation Puzzles
+  - Quantum Mechanics Challenges
+  - Artificial Ecosystem
+  correctAnswerIndex: 3

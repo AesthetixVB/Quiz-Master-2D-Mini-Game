@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8622adea42dc12a42af2b16c24577ef6, type: 3}
-  m_Name: Question 3
+  m_Name: Question 13
   m_EditorClassIdentifier: 
-  question: Outer Wilds features a variety of celestial bodies, each with their own
-    unique gravitational pull. What is the point in an object's orbit around a planet,
-    where it is the closest to the planet?
+  question: The ancient Nomai civilization left behind numerous structures and inscriptions.
+    What is the discipline called that studies ancient cultures through artifacts,
+    inscriptions, and other physical remnants?
   answers:
-  - Periapsis
-  - Aphelion
-  - Zenith
-  - Apogee
-  correctAnswerIndex: 0
+  - Paleontology
+  - Archaeology
+  - Ethnography
+  - History
+  correctAnswerIndex: 1

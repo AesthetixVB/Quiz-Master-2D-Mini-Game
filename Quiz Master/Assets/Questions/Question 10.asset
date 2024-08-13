@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8622adea42dc12a42af2b16c24577ef6, type: 3}
   m_Name: Question 10
   m_EditorClassIdentifier: 
-  question: The online community around Outer Wilds is typically very careful to
-    avoid revealing spoilers to those who have not completed the game. In real life,
-    which magazine first printed the word 'spoiler' referring to plot twists or endings
-    of narrative works?
+  question: The Hourglass Twins constantly exchange sand, visually representing the
+    passage of time. In real life, what is the scientific term for the movement of
+    sand dunes driven by wind?
   answers:
-  - National Lampoon in 1971
-  - Rolling Stone in 1983
-  - Entertainment Weekly in 1991
-  - The New Yorker in 1999
+  - Saltation
+  - Erosion
+  - Weathering
+  - Sedimentation
   correctAnswerIndex: 0

@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8622adea42dc12a42af2b16c24577ef6, type: 3}
   m_Name: Question 4
   m_EditorClassIdentifier: 
-  question: Exploring the Outer Wilds would be impossible without your trusty jetpack.
-    In real life, NASA's MMU (Manned Maneuvering Unit) allowed astronauts to perform
-    untethered extravehicular spacewalks at a distance from their shuttle. What gas
-    did the MMU use a propellent?
+  question: The Nomai were skilled in creating intricate and advanced machines and
+    structures. In person, what is the feild of study that focuses on the design
+    and construction of machines, involving moving parts?
   answers:
-  - Hydrogen
-  - Oxygen
-  - Helium
-  - Nitrogen
+  - Electrical Engineering
+  - Aerospace Engineering
+  - Civil Engineering
+  - Mechanical Engineering
   correctAnswerIndex: 3

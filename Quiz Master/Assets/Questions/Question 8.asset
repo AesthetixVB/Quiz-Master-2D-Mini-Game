@@ -12,12 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8622adea42dc12a42af2b16c24577ef6, type: 3}
   m_Name: Question 8
   m_EditorClassIdentifier: 
-  question: Beneath Brittle Hollow's crumbling crust is a vast cavity with a black
-    hole at its core. In real life, in what decade was the term 'black hole' first
-    used to describe astronomical phenomena?
+  question: The Eye of the Universe in Outer Wilds sends out a mysterious signal
+    that attracts the Nomai across the cosmos. What is the name of the scientific
+    discovery that provided evidence for the origin of the universe and supported
+    the Big Bang theory?
   answers:
-  - 1940s
-  - 1970s
-  - 1960s
-  - 1950s
+  - Redshift
+  - Hubble's Law
+  - Cosmic Microwave Background Radiation
+  - Quantum Entanglement
   correctAnswerIndex: 2

@@ -12,12 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8622adea42dc12a42af2b16c24577ef6, type: 3}
   m_Name: Question 6
   m_EditorClassIdentifier: 
-  question: The Quantum Moon exists in orbit around six different large astral bodies
-    at once until it is observed by a conscious observer. In real life, the phrase
-    'quantum sufficit' is a medical shorthand that means what?
+  question: "The planet Brittle Hollow in Outer Wilds has a fragile surface that
+    crumbles away over time. In real life, what is the geological term for the gradual
+    breakdown and removal of rock and soil from the Earth\u2019s surface by natural
+    processes?"
   answers:
-  - '''as quickly as possible'''
-  - '''as little as possible'''
-  - '''as much as needed'''
-  - '''for as long as required'''
+  - Erosion
+  - Sedimentation
+  - Metamorphism
+  - Fossilization
   correctAnswerIndex: 0

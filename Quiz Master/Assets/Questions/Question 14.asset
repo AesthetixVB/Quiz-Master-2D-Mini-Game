@@ -10,14 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8622adea42dc12a42af2b16c24577ef6, type: 3}
-  m_Name: Question 3
+  m_Name: Question 14
   m_EditorClassIdentifier: 
-  question: Outer Wilds features a variety of celestial bodies, each with their own
-    unique gravitational pull. What is the point in an object's orbit around a planet,
-    where it is the closest to the planet?
+  question: Beneath Brittle Hollow's crumbling surface in Outer Wilds is a black
+    hole at its core. In real life, what is the phenomenon called where light from
+    distant stars or galaxies is bent around a massive object, allowing observation
+    of objects otherwise obscured?
   answers:
-  - Periapsis
-  - Aphelion
-  - Zenith
-  - Apogee
+  - Gravitational Lensing
+  - Redshift
+  - Black Hole Accretion
+  - Quantum Fluctuations
   correctAnswerIndex: 0

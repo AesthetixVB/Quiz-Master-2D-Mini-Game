@@ -12,11 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8622adea42dc12a42af2b16c24577ef6, type: 3}
   m_Name: Question 7
   m_EditorClassIdentifier: 
-  question: Feldspar's musical instrument of choice is the harmonica. In real life,
-    which company was the first to mass produce harmonicas?
+  question: The White Hole Station is a pivotal location for instant teleportation
+    in Outer Wilds. What is the name of the scientific theory that aims to reconcile
+    general relativity with quantum mechanics, potentially offering explanations
+    for phenomena like white holes?
   answers:
-  - Harmo
-  - Hohner
-  - Fender
-  - Suzuki
+  - General Relativity
+  - String Theory
+  - Quantum Field Theory
+  - Loop Quantum Gravity
   correctAnswerIndex: 1
